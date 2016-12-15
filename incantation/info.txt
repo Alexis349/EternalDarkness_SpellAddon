@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"incantationaddon"
+	"version"	"1"
+	"up_date"	""
+	"author_name"	""
+	"author_url"	"N/A"
+	
+	"info"		""
+
+	"override"	"0"
+}
